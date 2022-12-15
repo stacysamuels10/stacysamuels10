@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stacy</h1>
-<h3 align="center">A passionate former educator and graduate of Digital Crafts Full Stack Bootcamp. I am currently a Full Stack developer working in React, Angular and C#.</h3>
+<h3 align="center">A passionate former educator and graduate of Digital Crafts Full Stack Bootcamp. I am currently a Full Stack developer working in React, Angular, and C#.</h3>
 
 - 🔭 I’m currently working on [Digital Crafts Full Stack Bootcamp](https://github.com/stacysamuels10/DigitalCrafts)
 
